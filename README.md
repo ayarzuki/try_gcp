@@ -1,4 +1,4 @@
-# Composer, Pyspark for word count
+# Try Use Composer  for word count
 
 1. Create Cloud Composer environment
 
@@ -16,7 +16,4 @@
    public data to your Cloud Storage bucket
    ```
 
-6. The result is word count DAG and save to CSV. This is the result and DAF success prove
-<img width="971" alt="Jepretan Layar 2023-10-01 pukul 01 24 17" src="https://github.com/ayarzuki/composer_spark/assets/48020037/d1e064eb-f37b-4a2d-b346-e9de18e32404">
-
-<img width="823" alt="Jepretan Layar 2023-10-01 pukul 01 26 36" src="https://github.com/ayarzuki/composer_spark/assets/48020037/a7ced575-62bb-4249-9190-3756be319b31">
+6. The result is word count DAG and save to CSV
